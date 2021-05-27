@@ -20,4 +20,3 @@ data,stato,codice_regione,denominazione_regione,lat,long,ricoverati_con_sintomi,
 2021-05-27T17:00:00,ITA,10,Umbria,43.10675841,12.38824698,79,10,89,1606,1695,-79,24,53137,1393,,,56225,1324116,375272,"Si fa presente che 3 dei ricoveri NON UTI, non rientrano nei codici disciplina COVID e pertanto vengono collocati in ""Altra Struttura"".",1,,,56225,0,918912,405204,ITI,ITI2
 2021-05-27T17:00:00,ITA,02,Valle d'Aosta,45.73750286,7.320149366,9,0,9,226,235,-7,7,10834,472,,,11541,128372,62241,,0,,,10903,638,96294,32078,ITC,ITC2
 2021-05-27T17:00:00,ITA,05,Veneto,45.43490485,12.33845213,336,59,395,8982,9377,-327,242,401807,11546,,,422730,7913231,1757757,Nei valori riportati per le terapie intensive si è verificato un disallineamento temporale del flusso informativo pertanto per convenzione è stato riportato  2 dimessi da TI  invece del n. 4 effettivi che include anche i negativizzati.,0,,,410961,11769,5356338,2556893,ITH,ITH3
-
