@@ -10,6 +10,7 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    container: ghcr.io/kth-library/kontarion:1.0.12
     steps:
       - name: Setup deno
         uses: denolib/setup-deno@v2
